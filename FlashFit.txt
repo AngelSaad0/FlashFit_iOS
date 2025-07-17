@@ -1,0 +1,39 @@
+🛒✨ FlashFit - Private Project
+
+A mobile shopping app showcasing a smooth and complete user experience,
+Seamlessly integrated with the Shopify platform to power product browsing, cart management, and secure checkout,
+and built with Google Firebase Authentication to enable secure and reliable user login,
+with main sections including: Home, Cart, Checkout, Wishlist, and Search.
+
+🚫 This is a private project developed by Angel Saad & Mohamed Ayman.
+Not intended for public distribution or reuse.
+All rights reserved ©️
+
+----------------------------------------
+
+👨‍💻 Team & Contact
+
+🔹 Angel Saad
+- LinkedIn: https://www.linkedin.com/in/angel-saad-768502295/
+- GitHub: https://github.com/AngelSaad0
+- Email: engysaad573new@gmail.com
+- WhatsApp: https://wa.me/+201204658575
+- Facebook: https://www.facebook.com/engy.saad.907089
+- YouTube: https://youtu.be/A-ptwuI0Ssc
+
+🔹 Mohamed Ayman
+- LinkedIn: https://www.linkedin.com/in/m7aymn/
+- GitHub: https://github.com/M7Aymn
+- Email: m7aymn@gmail.com
+- WhatsApp: https://wa.me/+201552159417
+- Facebook: https://www.facebook.com/m7aymn
+
+----------------------------------------
+
+🔒 Disclaimer
+
+This is a private project, and all contents (code, designs, and assets)
+are protected by copyright. Unauthorized use, copying, or redistribution
+is strictly prohibited.
+
+Thanks for your interest! ❤️
